@@ -1,3 +1,8 @@
+# this repo contains uploaded code for programming assignment #2
+
+### Dr. Peng's original file follows...
+
+#------
 ### Introduction
 
 This second programming assignment will require you to write an R
